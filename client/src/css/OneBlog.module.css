@@ -1,0 +1,64 @@
+.Body{
+    
+}
+
+.Title{
+    text-align: center;
+    background-color: #6bdaed;
+    width: 100%;
+    height: 200px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.pizza{
+    position: relative;
+    top: 40px;
+    left: -300px;
+}
+.code{
+    position: relative;
+    top: 0;
+    left: -250px;
+}
+.shake{
+    position: relative;
+    top: -100px;
+    left: 400px;
+}
+.donut{
+    position: relative;
+    top: -100px;
+    left: 300px;
+}
+.camera{
+    position: relative;
+    top: 0;
+    left: 250px;
+}
+
+.TitleText{
+    font-family: 'Bangers', cursive;
+    color: white;
+    font-size: 4.5rem;
+    position: relative;
+    top: -20px;
+}
+
+.Content{
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: 0 4px 6px #ccc;
+    width: 80%;
+    height: 300px;
+    margin: 20px auto;
+}
+
+.Matter{
+    margin: 30px 30px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
